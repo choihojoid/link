@@ -8,6 +8,8 @@
 
 - [자바의 데이터 전달 방식은 `Pass by Value`](https://mangkyu.tistory.com/107): 자바는 primitive type이든 reference type이든 `Pass by Value`로 데이터를 전달한다. primitive type은 쉽게 이해할 수 있지만 reference type도 `Pass by Value`로 동작하는 것이 맞는지 헷갈릴 수 있다. 자바에서 객체를 전달할 때 해당 객체가 저장된 주소가 복사되어 전달된다. 따라서 해당 주소를 바탕으로 필드에 접근하는 것은 가능하지만 그 객체 자체를 변경하는 것은 원본의 데이터에 영향을 주지 않는다. `Pass by Reference`는 주소를 전달하여 원본에 대한 alias를 구성함으로써 원본 그 자체에도 영향을 주는 것을 의미한다.
 
+- [자바가 메모리를 할당하는 방법](https://tangoblog.tistory.com/m/14)
+
 ## 2. Algorithm
 
 ## 3. OS
