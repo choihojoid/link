@@ -10,6 +10,8 @@
 
 - [자바가 메모리를 할당하는 방법](https://tangoblog.tistory.com/m/14)
 
+- [자바 제네릭 타입 소거](https://inpa.tistory.com/entry/JAVA-%E2%98%95-%EC%A0%9C%EB%84%A4%EB%A6%AD-%ED%83%80%EC%9E%85-%EC%86%8C%EA%B1%B0-%EC%BB%B4%ED%8C%8C%EC%9D%BC-%EA%B3%BC%EC%A0%95-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0)
+
 ## 2. Algorithm
 
 ## 3. OS
